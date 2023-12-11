@@ -1,0 +1,15 @@
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/bin/Debug/net8.0/TestesePratica
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/bin/Debug/net8.0/TestesePratica.deps.json
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/bin/Debug/net8.0/TestesePratica.runtimeconfig.json
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/bin/Debug/net8.0/TestesePratica.dll
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/bin/Debug/net8.0/TestesePratica.pdb
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/obj/Debug/net8.0/TestesePratica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/obj/Debug/net8.0/TestesePratica.AssemblyInfoInputs.cache
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/obj/Debug/net8.0/TestesePratica.AssemblyInfo.cs
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/obj/Debug/net8.0/TestesePratica.csproj.CoreCompileInputs.cache
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/obj/Debug/net8.0/TestesePratica.sourcelink.json
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/obj/Debug/net8.0/TestesePratica.dll
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/obj/Debug/net8.0/refint/TestesePratica.dll
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/obj/Debug/net8.0/TestesePratica.pdb
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/obj/Debug/net8.0/TestesePratica.genruntimeconfig.cache
+/Users/Rodrigues/Desktop/MiguelRumos/EstudosC#1/projects/TestesePratica/obj/Debug/net8.0/ref/TestesePratica.dll
