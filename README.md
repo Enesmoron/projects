@@ -670,3 +670,123 @@ string value2 = "A";
             {
                 Console.WriteLine(order);
             }
+
+        /* string hello = "Hello";
+        string world = "World";
+        Console.WriteLine(string.Format("{0} ...............{1}!", hello, world));
+        Console.WriteLine("{0} {0} {0} ", hello, world);
+
+        decimal price = 123.45m;
+        int discount = 50;
+        Console.WriteLine($"Price: {price:C} (Save {discount:C})");
+
+        int invoiceNumber = 1201;
+        decimal productShares = 25.4568m;
+        decimal subtotal = 2750.00m;
+        decimal taxPercentage = .15825m;
+        decimal total = 3185.19m;
+
+        Console.WriteLine($"Invoice Number: {invoiceNumber}");
+        Console.WriteLine($"   Shares: {productShares:N3} Product");
+        Console.WriteLine($"     Sub Total: {subtotal:C}");
+        Console.WriteLine($"           Tax: {taxPercentage:P2}");
+        Console.WriteLine($"     Total Billed: {total:C}");
+
+\*/
+
+        /* string message = "Find what is (inside the parentheses)";
+
+        int openingPosition = message.IndexOf('(');
+        int closingPosition = message.IndexOf(')');
+
+        Console.WriteLine(openingPosition);
+        Console.WriteLine(closingPosition);
+
+        int lenghtString = closingPosition - openingPosition;
+
+        Console.WriteLine(message.Substring(openingPosition + 1, lenghtString)); */
+
+        //string message = "What is the value <span>between the tags</span>?";
+
+        //int openingPosition = message.IndexOf("<span>");
+        //int closingPosition = message.IndexOf("</span>");
+
+        /*  openingPosition += 6;
+         int length = closingPosition - openingPosition;
+         Console.WriteLine(message.Substring(openingPosition, length)); */
+        /*  string message = "What is the value <span>between the tags</span>?";
+
+         const string openSpan = "<span>";
+         const string closeSpan = "</span>";
+
+         int openingPosition = message.IndexOf(openSpan);
+         int closingPosition = message.IndexOf(closeSpan);
+
+         openingPosition += openSpan.Length;
+         int length = closingPosition - openingPosition;
+         Console.WriteLine(message.Substring(openingPosition, length)); */
+        /*   string message = "(What if) I am (only interested) in the last (set of parentheses)?";
+
+          int openingPar = message.LastIndexOf("(");
+          int closingPar = message.LastIndexOf(")");
+
+          openingPar += 1;
+
+          Console.WriteLine(message.Substring(openingPar, closingPar - openingPar));
+
+          string message = "(What if) there are (more than) one (set of parentheses)?";
+          while (true)
+          {
+              int openingPosition = message.IndexOf('(');
+              if (openingPosition == -1) break;
+
+              openingPosition += 1;
+              int closingPosition = message.IndexOf(')');
+              int length = closingPosition - openingPosition;
+              Console.WriteLine(message.Substring(openingPosition, length));
+
+              // Note the overload of the Substring to return only the remaining
+              // unprocessed message:
+              message = message.Substring(closingPosition + 1);
+
+        string data = "12345John Smith          5000  3  ";
+        string updatedData = data.Remove(2, 20);
+        Console.WriteLine(updatedData);
+        data = data.Replace("3", "___");
+        Console.WriteLine(data);
+
+        const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
+
+        string quantity = "";
+        string output = "";
+
+        // Your work here
+
+        // Extract the "quantity"
+        const string openSpan = "<span>";
+        const string closeSpan = "</span>";
+
+        int quantityStart = input.IndexOf(openSpan) + openSpan.Length; // + length of <span> so index at end of <span> tag
+        int quantityEnd = input.IndexOf(closeSpan);
+        int quantityLength = quantityEnd - quantityStart;
+        quantity = input.Substring(quantityStart, quantityLength);
+        quantity = $"Quantity: {quantity}";
+
+        // Set output to input, replacing the trademark symbol with the registered trademark symbol
+        const string tradeSymbol = "&trade;";
+        const string regSymbol = "&reg;";
+        output = input.Replace(tradeSymbol, regSymbol);
+
+        // Remove the opening <div> tag
+        const string openDiv = "<div>";
+        int divStart = output.IndexOf(openDiv);
+        output = output.Remove(divStart, openDiv.Length);
+
+        // Remove the closing </div> tag and add "Output:" to the beginning
+        const string closeDiv = "</div>";
+        int divCloseStart = output.IndexOf(closeDiv);
+        output = "Output: " + output.Remove(divCloseStart, closeDiv.Length);
+
+        Console.WriteLine(quantity);
+        Console.WriteLine(output);
+                     */
